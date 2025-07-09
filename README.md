@@ -5,7 +5,7 @@
 Analyst programmer with 3+ years of experience in the financial and retail sectors, specializing in building scalable technical solutions that bring values to the customer. Began professional career at age 21, driven by strong passion for technology and continuous learning.
 - 🌱 I’m currently learning ...
   - Data structures, software architecture and advanced problem solving
-  - React.js - Node.js - MongoDB
+  - Angular - NestJs - OracleDB
 - ✔ Ask me about anything, I am happy to help<br>
 - 📩 Reach out to me at: <a href="cristianguajardo282@gmail.com">cristianguajardo282@gmail.com</a>
 
